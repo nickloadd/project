@@ -1,0 +1,2 @@
+chmod: missing operand after ‘dir’
+Try 'chmod --help' for more information.
